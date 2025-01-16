@@ -1,5 +1,5 @@
-Omonia Cafe
-Something Greek
+[Omonia Cafe](https://omoniacafe.com/)
+[Something Greek](https://www.somethingreekonline.com/)
 ---
 [Back to eurpean](eurpean.md)
 [Start Over](../home.md)
