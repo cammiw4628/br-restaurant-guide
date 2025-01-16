@@ -5,4 +5,4 @@ Select a specific European food:
 ## [Greek](greek.md)
 ## [Mediterranean](mediterranean.md)
 ---
-g
+[Start Over](../home.md)
